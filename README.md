@@ -96,11 +96,12 @@ Some key insights generated:
 ## 📁 Project Structure
 
 ```
-sql-retail-case-study
+MySQL-retail-sales-case-study
 │
 ├── Retail_Sales_Analysis.sql
 ├── SQL_Retail_Case_Study.pdf
 └── README.md
+```
 
 ---
 
@@ -108,7 +109,7 @@ sql-retail-case-study
 
 1. Import datasets into MySQL.
 2. Create the tables.
-3. Run the SQL queries from `retail_analysis.sql`.
+3. Run the SQL queries from `Retail_Sales_Analysis.sql`.
 4. Analyze results.
 
 ---
